@@ -17,7 +17,7 @@ describe("Testing a session with the NetflixBrowserIntent", function() {
                             },
                             "attributes": {},
                             "user": {
-                            "userId": "amzn1.ask.account.AET2ME5TNIDZTELRVNBHT6NTD6JJSSDPXRBHWYZ74U3KYMXETTWUKEEJE42GLX7XEL5UCVXLASD5NFIJ7MIDVHEZKQ6CFLNRY7ZXHCLEVY4USZ7CP7MMGC2DFOQJEYW55BHVFRS7J34KYYTA3E6ELUI74SUTV4KQ3G7JYX6WBS5ZFUT4SDMEN4CSZOQDPCESB7AOMP6GG6MMQRA"
+                            "userId": ""
                             },
                             "new": true
                         },
